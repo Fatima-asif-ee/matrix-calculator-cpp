@@ -47,5 +47,5 @@ A Menu-driven console-based matrix calculator that performa basic calculations(a
 
 ## Author
 
-Fatima Asif- EE Student
-GitHub: [Fatima-asif-ee](https://github.com/Fatima-asif-ee)
+- Fatima Asif- EE Student
+- GitHub: [Fatima-asif-ee](https://github.com/Fatima-asif-ee)
